@@ -36,7 +36,6 @@
     "scripts": {
         "start": "tsc --watch",
         "build": "tsc",
-        "postbuild": "cp -r src/templates dist/templates",
         "lint": "eslint .",
         "lint:fix": "eslint --fix .",
         "format": "prettier --check .",
