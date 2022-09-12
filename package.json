@@ -1,7 +1,7 @@
 {
     "name": "@bradgarropy/plop-helper-includes",
     "version": "1.0.0",
-    "description": "💧 plop helper includes",
+    "description": "A plop helper that conditionally renders if an array includes a value.",
     "keywords": [
         "node",
         "typescript",
